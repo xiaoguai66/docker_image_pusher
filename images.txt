@@ -1,2 +1,1 @@
-alpine:3.1.8
- 
+xiaoguai/hyperf:8.2-alpine-v3.18-swoole-v5.1.1
