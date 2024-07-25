@@ -1,1 +1,1 @@
-tinyegg/php72
+xiaoguai/hyperf:7.4-alpine-v3.11-swoole
