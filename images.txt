@@ -1,1 +1,1 @@
-xiaoguai/go:ykb1
+bitnami/etcd:3
