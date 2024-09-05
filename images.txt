@@ -1,1 +1,1 @@
-mariadb:latest
+redis:latest
