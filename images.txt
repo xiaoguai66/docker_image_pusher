@@ -1,1 +1,1 @@
-redis:latest
+bitnami/etcd:3.4.27
