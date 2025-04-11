@@ -1,1 +1,1 @@
-yedf/dtm:latest
+clickhouse/clickhouse-server
