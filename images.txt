@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:24.12
+clickhouse/clickhouse-server:22.12
