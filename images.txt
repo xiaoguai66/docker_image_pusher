@@ -1,1 +1,1 @@
-caddy:2.7-alpine
+mysql:8.0
