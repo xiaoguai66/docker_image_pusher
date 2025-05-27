@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:22.12
+caddy:2.7-alpine
