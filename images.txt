@@ -1,1 +1,1 @@
-qdrant/qdrant:latest
+ghcr.io/dtyq/magic-service:latest
