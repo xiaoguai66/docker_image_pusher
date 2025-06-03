@@ -1,1 +1,1 @@
-ghcr.io/dtyq/super-magic:latest
+ghcr.io/dtyq/magic-gateway:latest
