@@ -1,1 +1,1 @@
-ghcr.io/dtyq/magic-gateway:latest
+ghcr.io/dtyq/sandbox-gateway:latest
