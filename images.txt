@@ -1,1 +1,1 @@
-ghcr.io/dtyq/sandbox-gateway:latest
+mysql:8.0
