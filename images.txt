@@ -1,3 +1,3 @@
 ubuntu/squid:latest
 #linux/amd64、linux/arm64
---platform=linux/arm64 ubuntu/squid
+--platform=linux/amd64 ubuntu/squid
