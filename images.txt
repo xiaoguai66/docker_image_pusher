@@ -1,3 +1,3 @@
-semitechnologies/weaviate:1.19.0
+nginx:latest
 #linux/amd64、linux/arm64
---platform=linux/amd64 semitechnologies/weaviate
+--platform=linux/amd64 nginx
