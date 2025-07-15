@@ -1,3 +1,3 @@
-redis:6-alpine
+ubuntu/squid:latest
 #linux/amd64、linux/arm64
 #--platform=linux/amd64 langgenius/dify-api:1.6.0
